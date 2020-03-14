@@ -13,8 +13,6 @@ public class main {
             System.out.println("Two string did not have same length");
             return ;
         }
-        System.out.println(s1+s2);
-
         System.out.println(mapString( s1,s2));
 
     }
